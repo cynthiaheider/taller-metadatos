@@ -1,0 +1,16 @@
+﻿Dublin Core element,DC element use,Data value standard to use,Our solution,
+Title,A name given to the resource.,,La Información,
+Subject,The topic of the resource.,,Nicaragua; Editorials,
+Description,An account of the resource.,,Print newspaper from the Atlantic Coast of Nicaragua. Includes a description of the centennial of the San Jacinto Battle.,
+Creator,An entity primarily responsible for making the resource.,,"Tablada, Humberto M.",
+Publisher,An entity responsible for making the resource available.,,,
+Contributor,An entity responsible for making contributions to the resource.,,,
+Date,A point or period of time associated with an event in the lifecycle of the resource.,DACS 2.4 (Date),1956 June 09,
+Type,The nature or genre of the resource.,DCMI Type Vocabulary,Physical Object,
+Format,"The file format, physical medium, or dimensions of the resource.",,Newspaper,JPG
+Identifier,An unambiguous reference to the resource within a given context.,,,
+Source,A related resource from which the described resource is derived.,,Museum of Word and Image,Hard drive
+Language,A language of the resource.,ISO 639-3,spa,
+Relation,A related resource.,,,
+Coverage,"The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.",,19th - 20th century,
+Rights,Information about rights held in and over the resource.,,Rights held by Museum of Word and Image,

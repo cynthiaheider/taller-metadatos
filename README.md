@@ -1,4 +1,4 @@
-# Introducción a los metadatos: ¿Qué son y por qué son importante?
+# Introducción a los metadatos: ¿Qué son y por qué son importantes?
 Taller introducción a los metadatos
 Taller SSHRC
 
@@ -38,16 +38,21 @@ Ahora, en un grupo pequeño, cree metadatos para los documentos a continuación 
 
 - Documento 1:
 
-Acta de matrimonio impresa de 1904 entre Felipe Colligüin (nacido 1851) y Maria Cusecheo Lemunao (nacida 1879). Creado por el Registro Civil en Temuko, Chile y escrito en castellano y mapuche.
+Acta de matrimonio impresa de 1904 entre Felipe Colligüin (nacido 1851) y Maria Cusecheo Lemunao (nacida 1879). Creada por el Registro Civil en Temuko, Chile y escrita en castellano y mapuche.
 
 - Documento 2:
 
 Una grabación de audio del autor colombiano Héctor Abad Faciolince leyendo su obra titulada “Testamento involuntario” en 2015, en español.
 
 ## Tarea
-Material de origen
 
 ### Instrucciones
+
+Aplica lo que ha aprendido hoy!
+
+Piense en los datos y el material de origen con los que interactúa con frecuencia, o con los que desearía poder interactuar más.
+¿Dónde se conservan? Si en una institución, ¿han aplicado sus propios metadatos? Si es así, ¿qué tan robusto son? ¿Falta información? ¿Sería capaz de encontrar los materiales si no supiera que existen?
+Si no se lleva conserva en una institución, ¿cómo puede ayudar a garantizar que se registre la información contextual del material? ¿Cómo puede mantener esa información consistente mientras satisface las necesidades de los usuarios potenciales?
 
 ---
 
@@ -100,6 +105,10 @@ A printed marriage certificate dated 1904 between Felipe Colligüin (nacido 1851
 An audio recording of Colombian author Héctor Abad Faciolince reading from his work entitled “Testamento involuntario” in 2015, in Spanish.
 
 ## Homework
-Source material
 
 ### Instructions
+Apply what you've learned today!
+
+Think about the data and source material you interact with frequently, or which you wish you could interact with more.
+Where is it held? If in an institution, have they applied their own metadata? If so, how robust is it? Is there information missing? Would you be able to find the materials if you didn't already know they existed?
+If it is not held in an institution, how can you help ensure that contextual information is recorded for the material? How can you keep that information consistent while meeting the needs of potential users?

@@ -1,8 +1,10 @@
-# Metadata in general
+# Aprendar más sobre/Learn more about
+
+## Los metadatos en general/Metadata in general
 
 - [NISO primer](https://www.niso.org/publications/understanding-metadata-2017)
 
-# Schemas
+## Esquemas/Schemas
 
 - Dublin Core elements ([eng](https://www.dublincore.org/specifications/dublin-core/usageguide/elements/))([esp](http://eprints.rclis.org/16347/1/SABUS_DCCcompleto.pdf))
 
@@ -15,14 +17,14 @@
 - [MODS](https://www.loc.gov/standards/mods/) (used for bibliographic description)
 
 
-# Content standards
+## Estándares de contenido/Content standards
 
 - [DACS](https://saa-ts-dacs.github.io/)
 
 - [ISAD(G)](https://www.ica.org/en/isadg-general-international-standard-archival-description-second-edition)
 
 
-# Data value standards
+## Estándares de valor de datos/Data value standards
 
 - Getty Vocabularies ([Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/index.html), [Getty Thesaurus of Geographic Names (TGN)](https://www.getty.edu/research/tools/vocabularies/tgn/index.html), [Cultural Objects Name Authority (CONA)](https://www.getty.edu/research/tools/vocabularies/cona/index.html), [Union List of Artist Names (ULAN)](https://www.getty.edu/research/tools/vocabularies/ulan/index.html), [Getty Iconography Authority (IA)](https://www.getty.edu/research/tools/vocabularies/cona/index.html), [Categories for the Description of Works of Art (CDWA)](https://www.getty.edu/research/publications/electronic_publications/cdwa/))
 
@@ -31,7 +33,7 @@
 - [ISO Codes for the Representation of Names of Languages](https://iso639-3.sil.org/code_tables/639/data)
 
 
-# Reparative metadata tools and articles:
+## Artículos y herramientas de metadatos reparativos/Reparative metadata tools and articles
 
 - Itza Carbajal, "[Historical Metadata Debt: Confronting Colonial and Racist\
 Legacies Through a Post-Custodial Metadata Praxis](https://doi.org/10.37514/ATD-J.2021.18.1-2.08)"
@@ -43,7 +45,7 @@ Legacies Through a Post-Custodial Metadata Praxis](https://doi.org/10.37514/ATD-
 - [The "Use Our Words" Toolkit](https://indigenouslis.ca/the-use-our-words-toolkit/)
 
 
-# Archives projects in the Latin-American sphere talking about their metadata
+## Proyectos de archivos en el ámbito latinoamericano hablando de sus metadatos/Archive projects in the Latin-American sphere talking about their metadata
 
 - [Archivo de Grupo de Apoyo Mutuo](https://archivogam.haverford.edu/en/)
 

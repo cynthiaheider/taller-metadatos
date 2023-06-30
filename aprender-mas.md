@@ -6,15 +6,15 @@
 
 ## Esquemas/Schemas
 
-- Dublin Core elements ([eng](https://www.dublincore.org/specifications/dublin-core/usageguide/elements/))([esp](http://eprints.rclis.org/16347/1/SABUS_DCCcompleto.pdf))
+- Dublin Core (DC/DCMI) elementos/elements ([eng](https://www.dublincore.org/specifications/dublin-core/usageguide/elements/))([esp](http://eprints.rclis.org/16347/1/SABUS_DCCcompleto.pdf))
 
-- [VRA](https://www.loc.gov/standards/vracore/) (used for visual resources)
+- [VRA](https://www.loc.gov/standards/vracore/) (utilizado para recursos visuales)/(used for visual resources)
 
-- [EAD](https://www.loc.gov/ead/) (used for archival finding aids)
+- [EAD](https://www.loc.gov/ead/) (utilizado para los archivos)/(used for archival finding aids)
 
-- [MARC21](https://www.loc.gov/marc/bibliographic/) (used for bibliographic description)
+- [MARC21](https://www.loc.gov/marc/bibliographic/) (utilizando para la descripción bibliográfica)/(used for bibliographic description)
 
-- [MODS](https://www.loc.gov/standards/mods/) (used for bibliographic description)
+- [MODS](https://www.loc.gov/standards/mods/) (utilizando para la descripción bibliográfica)/(used for bibliographic description)
 
 
 ## Estándares de contenido/Content standards

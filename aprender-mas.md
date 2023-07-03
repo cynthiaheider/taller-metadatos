@@ -4,6 +4,10 @@
 
 - [NISO primer](https://www.niso.org/publications/understanding-metadata-2017)
 
+- [Consejo Internacional de Archivos/International Council on Archives](https://www.ica.org/es)
+
+-   - [Digital Preservation in Lower Resource Environments: A Core Curriculum module "Managing Metadata to Protect the Integrity of Records"](https://www.ica.org/sites/default/files/Metadata%20Module.pdf)
+
 ## Esquemas/Schemas
 
 - Dublin Core (DC/DCMI) elementos/elements ([eng](https://www.dublincore.org/specifications/dublin-core/usageguide/elements/))([esp](http://eprints.rclis.org/16347/1/SABUS_DCCcompleto.pdf))
@@ -16,12 +20,14 @@
 
 - [MODS](https://www.loc.gov/standards/mods/) (utilizando para la descripción bibliográfica)/(used for bibliographic description)
 
+- [Esquema de Metadatos para la Gestión del Documento Electrónico (e-EMGDE)](https%3A%2F%2Fadministracionelectronica.gob.es%2Fpae_Home%2Fdam%2Fjcr%3A26d90313-7af0-4f69-9d62-c853d55d7627%2FEsquema_Metadatos_e-EMGDE_2016.pdf)
+
 
 ## Estándares de contenido/Content standards
 
 - [DACS](https://saa-ts-dacs.github.io/)
 
-- [ISAD(G)](https://www.ica.org/en/isadg-general-international-standard-archival-description-second-edition)
+- ISAD(G)([eng](https://www.ica.org/en/isadg-general-international-standard-archival-description-second-edition))([esp](https://www.ica.org/sites/default/files/isad%20g%20SP.pdf))
 
 
 ## Estándares de valor de datos/Data value standards
@@ -39,6 +45,8 @@
 Legacies Through a Post-Custodial Metadata Praxis](https://doi.org/10.37514/ATD-J.2021.18.1-2.08)"
 
 - Boyles, et al. "[Postcustodial Praxis: Building Shared Context through Decolonial Archiving](https://doi.org/10.55520/H1KMMTE9)"
+
+- Kelley Rowan and Annia Gonzalez, "[Decolonizing your library: metadata that empowers](https://docs.lib.purdue.edu/iatul/2022/ttl/1)"
 
 - [Archives for Black Lives in Philadelphia](https://archivesforblacklives.wordpress.com/)
 
@@ -58,3 +66,11 @@ Legacies Through a Post-Custodial Metadata Praxis](https://doi.org/10.37514/ATD-
 - [Archives of the Indigenous Languages of Latin America](https://ailla.utexas.org/) (AILLA)
 
 -   - [metadata specifications](https://ailla.utexas.org/site/depositors/metadata)
+ 
+- [El Archivo General de la Nación (Colombia)](https://www.archivogeneral.gov.co/agn/home/)
+
+-   - ["Guía para la formulación de un esquema de metadatos para la gestión de documentos"](https://www.archivogeneral.gov.co/sites/default/files/Estructura_Web/5_Consulte/Recursos/Publicacionees/GuiaDeMetadatos.pdf)
+ 
+- [El Archivo General de la Nación (México)](https://www.gob.mx/agn)
+
+-   - [Breviario de metadatos](https://www.gob.mx/cms/uploads/attachment/file/228991/InterPARES_4_020617.pdf) 

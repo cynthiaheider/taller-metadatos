@@ -34,7 +34,7 @@ Volvamos al documento que vimos anteriormente durante la primera actividad. Como
 
 ### Instrucciones: 
 
-Ahora, en un grupo pequeño, cree metadatos para los documentos a continuación de acuerdo con los siguientes estándares: Esquema de metadatos Dublin Core, DACS para el formato del campo Fecha e ISO 639-3 para el campo Idioma. Puede usar una copia de la hoja de cálculo si es útil. Tendrás 10 minutos para completar tantos campos como puedas. Oirá un pitido cuando se acabe el tiempo.
+Ahora, en un grupo pequeño, cree metadatos para los documentos a continuación de acuerdo con los siguientes estándares: Esquema de metadatos Dublin Core, DACS para el formato del campo Fecha e ISO 639-3 para el campo Idioma. Haga su propia copia de [la hoja de cálculo aquí](https://docs.google.com/spreadsheets/d/19MbwB0BEPRJXOet8c1HgJZs1ygh_Rso-igv7PMfrEnw/edit?usp=sharing) para completarla, si le resulta útil. Tendrás 10 minutos para completar tantos campos como puedas. Oirá un pitido cuando se acabe el tiempo.
 
 - Documento 1:
 
@@ -94,7 +94,7 @@ We will use the data value standard ISO Codes for the Representation of Names of
 ### Instructions:
 
 Now, in a small group, create metadata for the documents below according to the following standards:
-Dublin Core metadata schema, DACS for the formatting of the Date field, and ISO 639-3 for the Language field. You can use a copy of the spreadsheet if it is helpful. You'll have 10 minutes to complete as many fields as you can. You will hear a beep when our time is up.
+Dublin Core metadata schema, DACS for the formatting of the Date field, and ISO 639-3 for the Language field. Make your own copy of [the spreadsheet here](https://docs.google.com/spreadsheets/d/19MbwB0BEPRJXOet8c1HgJZs1ygh_Rso-igv7PMfrEnw/edit?usp=sharing) to fill in, if it is helpful. You'll have 10 minutes to complete as many fields as you can. You will hear a beep when our time is up.
 
 - Document 1:
 
